@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">使驾</title>
+  <desc id="desc">Three workflow nodes connected by directional lines.</desc>
+  <rect x="4" y="4" width="120" height="120" rx="24" fill="#1f2937"/>
+  <path d="M43 42h18v12H43zM67 76h18v12H67zM31 76h18v12H31z" fill="#f8fafc"/>
+  <path d="M61 48h14v28M49 82h18M49 48h10" fill="none" stroke="#93c5fd" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m71 70 7 7-7 7" fill="none" stroke="#5eead4" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="35" cy="48" r="6" fill="#22c55e"/>
+  <circle cx="81" cy="82" r="6" fill="#f97316"/>
+  <circle cx="37" cy="82" r="6" fill="#8b5cf6"/>
+</svg>

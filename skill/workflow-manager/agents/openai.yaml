@@ -1,0 +1,4 @@
+interface:
+  display_name: "使驾"
+  short_description: "管理使驾项目、Codex 会话关联与可视化工作流"
+  default_prompt: "Use $workflow-manager to inspect Codex sessions and manage 使驾 projects and workflows."
