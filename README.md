@@ -132,6 +132,6 @@ powershell -ExecutionPolicy Bypass -File .\WorkflowManager.ps1 -TrayPersistenceT
 ```
 
 ## 关于
-开发这个工具的原因是电脑老是被高内存拖累，本人平时使用vscode codex插件，对话呈现和脚本执行等不太便利，玩耍过程中发现ai用powershell给我开发了个图形化工具，于是意识到 powershell winform + py2exe 可以实现超轻便的UI，于是做了这个个自定义壳。过了大概一两周deepseek harness和codex harness出现了，其实大差不差，未来软件使用就应该是私人化自主定制的。
+开发这个工具的原因是电脑老是被高内存拖累，本人平时使用vscode codex插件，对话呈现和脚本执行等不太便利，玩耍过程中发现ai用powershell给我开发了个图形化工具，于是意识到 powershell winform + PS2EXE  可以实现超轻便的UI，于是做了这个个自定义壳。过了大概一两周deepseek harness和codex harness出现了，其实大差不差，未来软件使用就应该是私人化自主定制的。
 
 
